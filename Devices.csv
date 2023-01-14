@@ -1,0 +1,12 @@
+﻿Strasse, Objekt, Gerät, Bezeichnung, Betrieb, Verbrauch
+Musterstrasse 1, Produktion/Verkauf, Backofen, Ofen1, Industrie, 10000 kwh
+Musterstrasse 1,  Produktion/Verkauf, Teigteiler, Teigteiler 1, Industrie, 1000 kwh
+Musterstrasse 1,  Produktion/Verkauf, Kühlschrank, Kühlschrank 1, Industrie, 100 kwh
+Musterstrasse 1,  Produktion/Verkauf, Backofen, Backofen 2, Industrie, 1500 kwh
+Musterstrasse 1,  Produktion/Verkauf, Raffiniermaschine, Maschine 1, Industrie, 3000 kwh
+Musterstrasse 1,  Produktion/Verkauf, Kombidämpfer, Dampf1, Industrie, 400 kwh
+Heimstrasse 2, Filiale 1, Backofen, Ofen1, Haushalt, 80 kwh
+Heimstrasse 2, Filiale 1, Heizung, Fussbodenheizung, Haushalt, 300 kwh
+Heimstrasse 3, Filiale 1, Computer, Laptop, Haushalt, 10 kwh
+Industriestrasse 33, Filiale 2, Wärmebildkamera, Kamera 1, Industrie, 500 kwh
+Industriestrasse 33, Filiale 2, Temeperaturmesser, Messgerät 11, Haushalt, 500 kwh
